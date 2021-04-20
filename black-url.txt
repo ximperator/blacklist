@@ -3,3 +3,4 @@ internettl.org
 avsvmcloud.com
 ovh.com
 ovh.de
+alicloud.com
