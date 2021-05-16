@@ -5,3 +5,5 @@ ovh.com
 ovh.de
 ovh.net
 alicloud.com
+binaryedge.ninja
+linode.com
