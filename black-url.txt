@@ -7,3 +7,5 @@ ovh.net
 alicloud.com
 binaryedge.ninja
 linode.com
+myweb.is
+binaryedge.ninja
