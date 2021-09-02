@@ -10,3 +10,4 @@ linode.com
 myweb.is
 binaryedge.ninja
 stretchoid.com
+do.binaryedge.ninja
