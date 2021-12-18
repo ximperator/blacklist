@@ -39,3 +39,6 @@ cheezyn.pk
 probe-ca001.rand0.leakix.org
 remonsec.com
 alphastrike.io
+exit.lokodlare.com
+sippysoftswitch.ml
+re-load.elastix.com
