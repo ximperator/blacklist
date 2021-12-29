@@ -44,3 +44,4 @@ sippysoftswitch.ml
 re-load.elastix.com
 smtp36.kcmoa.com
 scanner.openportstats.com
+KickNode.xyz
