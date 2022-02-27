@@ -73,3 +73,5 @@ serveftp.com
 dns04.com 
 zuurry.net
 live.advailo.com
+utg.ge
+binaryedge.ninja
