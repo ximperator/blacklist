@@ -75,3 +75,4 @@ zuurry.net
 live.advailo.com
 utg.ge
 binaryedge.ninja
+desktop.syntaxdevops.com 
