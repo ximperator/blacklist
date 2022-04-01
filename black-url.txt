@@ -77,3 +77,4 @@ utg.ge
 binaryedge.ninja
 desktop.syntaxdevops.com 
 txlservices.com
+myddosnet.com
