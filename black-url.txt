@@ -81,3 +81,4 @@ myddosnet.com
 obtenirmacartegrise.fr
 tedata.net
 linodeusercontent.com
+*.tedata.net
