@@ -82,3 +82,4 @@ obtenirmacartegrise.fr
 tedata.net
 linodeusercontent.com
 *.tedata.net
+indigomay.me
