@@ -89,3 +89,4 @@ example.com
 pornhub.com
 nordvpn.com
 alicloud.com 
+hide.me
