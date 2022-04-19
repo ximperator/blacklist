@@ -91,3 +91,4 @@ nordvpn.com
 alicloud.com 
 hide.me
 brave.com
+rkhunter.sourceforge.net
