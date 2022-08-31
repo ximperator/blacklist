@@ -100,3 +100,6 @@ mail-3745.fewborn.com
 informatyczne.pl
 meverywhere.pl
 alibaba-inc.com
+fly-hosting.net
+static.tedata.net
+
