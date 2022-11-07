@@ -118,3 +118,6 @@ progress.ise-indy.com
 leakix.org
 carphonewarehouse.com
 hostwindsdns.com
+des.capital
+dynadot.com
+no-reverse-dns-configured.com
