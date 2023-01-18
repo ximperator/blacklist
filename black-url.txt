@@ -79,9 +79,7 @@ desktop.syntaxdevops.com
 txlservices.com
 myddosnet.com
 obtenirmacartegrise.fr
-tedata.net
 linodeusercontent.com
-*.tedata.net
 indigomay.me
 xnxx.com
 youporn.com
@@ -101,7 +99,6 @@ informatyczne.pl
 meverywhere.pl
 alibaba-inc.com
 fly-hosting.net
-static.tedata.net
 hostroyale.com
 silknet.com
 dyn.plus.net
