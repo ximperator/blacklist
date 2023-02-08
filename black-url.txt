@@ -132,3 +132,5 @@ bcredirect.dacodingsalaf.com
 racking24.futurestarr.com
 none.net
 d1.si
+x1.c.lencr.org
+lencr.org
