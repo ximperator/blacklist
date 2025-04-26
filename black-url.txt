@@ -4,7 +4,7 @@ avsvmcloud.com
 ovh.com
 ovh.de
 ovh.net
-alicloud.com
+.alicloud.com
 binaryedge.ninja
 linode.com
 myweb.is
