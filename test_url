@@ -6,3 +6,4 @@ malicious-domain.com | Malware | High
 phishing-bank.com | Phishing | Medium  
 c2-server.botnet | C2 | Critical  
 scam-offer.org | Scam | Low  
+kvberlin.de | C2 | Critical 
