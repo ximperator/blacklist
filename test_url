@@ -1,0 +1,8 @@
+# Checkpoint Malicious Domains Feed  
+# Last Updated: 2023-01-01  
+# Format: Domain | Threat Type | Confidence  
+
+malicious-domain.com | Malware | High  
+phishing-bank.com | Phishing | Medium  
+c2-server.botnet | C2 | Critical  
+scam-offer.org | Scam | Low  
