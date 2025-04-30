@@ -4,5 +4,5 @@ Domain,internettl.org,Medium,Medium
 Domain,avsvmcloud.com,Medium,Medium
 Domain,ovh.com,Medium,high
 Domain,ovh.de,Medium,Medium
-Domain,rtl.de,Medium,high
+Domain,kvberlin.de,Medium,high
 
