@@ -1,2 +1,3 @@
 #UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-b6564340b759a79a21b44403bc4e0839,booking.com,Domain,medium,medium,AB,Possibly compromised
+b65643,booking.com,Domain,medium,medium,AB,Possibly compromised
+b65643,hoststar.at,Domain,medium,medium,AB,Possibly compromised
