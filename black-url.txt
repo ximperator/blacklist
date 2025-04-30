@@ -1,3 +1,3 @@
 #Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment
 observ1,www.facebook.com,URL,high,high,AV,"""Malicious IP"""
-
+deeple,deepl.com,URL,high,high,AV,"""Malicious """
