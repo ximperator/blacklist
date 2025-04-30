@@ -1,3 +1,2 @@
-UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-rtl,rtl.de,Domain,High,High,Antivirus,Test domain 1
-kv,idp.kvberlin.de,Domain,High,High,Antivirus,Test domain 1
+domain1,rtl.de,Domain,high,high,AV,Domain
+domain2,kvberlin.de,Domain,high,high,AV,Domain
