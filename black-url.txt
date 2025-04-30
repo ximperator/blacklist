@@ -2,5 +2,5 @@ Type,Indicator,Confidence,Severity,Comment
 Domain,juniper.net,Medium,Medium,Beispiel-IoC
 Domain,internettl.org,Medium,Medium,Beispiel-IoC
 Domain,avsvmcloud.com,Medium,Medium,Beispiel-IoC
-Domain,ovh.com,Medium,Medium,Beispiel-IoC
+Domain,ovh.com,Medium,high,Beispiel-IoC
 Domain,ovh.de,Medium,Medium,Beispiel-IoC
