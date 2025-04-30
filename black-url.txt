@@ -1,2 +1,3 @@
+#name,severity,type,indicator,comment
 domain1,rtl.de,Domain,high,high,AV,Domain
 domain2,kvberlin.de,Domain,high,high,AV,Domain
