@@ -1,5 +1,5 @@
 Type,Indicator,Confidence,Severity
-Domain,juniper.net,Medium,Medium
+Domain,juniper.net,high,Medium
 Domain,internettl.org,Medium,Medium
 Domain,avsvmcloud.com,Medium,Medium
 Domain,ovh.com,Medium,high
