@@ -1,6 +1,7 @@
-Type,Indicator,Confidence,Severity,Comment
-Domain,juniper.net,Medium,Medium,Beispiel-IoC
-Domain,internettl.org,Medium,Medium,Beispiel-IoC
-Domain,avsvmcloud.com,Medium,Medium,Beispiel-IoC
-Domain,ovh.com,Medium,high,Beispiel-IoC
-Domain,ovh.de,Medium,Medium,Beispiel-IoC
+Type,Indicator,Confidence,Severity
+Domain,juniper.net,Medium,Medium
+Domain,internettl.org,Medium,Medium
+Domain,avsvmcloud.com,Medium,Medium
+Domain,ovh.com,Medium,high
+Domain,ovh.de,Medium,Medium
+Domain,ali.com,Medium,high
