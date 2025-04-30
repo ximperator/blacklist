@@ -1,2 +1,3 @@
-#UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-RTL,rtl.de,Domain,medium,medium,AB,AMOS Stealer DMG download
+#Uniq-Name,#Value,#Type,#Confidence,#Severity,#Product,#Comment
+observ1,www.facebook.com,URL,high,high,AV,"""Malicious IP"""
+
