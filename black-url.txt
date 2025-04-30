@@ -1,5 +1,3 @@
-Type,Value,Comment
-domain,malicious-domain1.com,Bekannte Phishing-Seite
-domain,suspicious-site.net,Wird auf verdächtige Aktivitäten überwacht
-domain,command-and-control.org,Verbindung zu einer Botnet-Infrastruktur
-domain,idp.kvberlin.de,kvberlin
+UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
+rtl,rtl.de,Domain,High,High,Antivirus,Test domain 1
+kv,idp.kvberlin.de,Domain,High,High,Antivirus,Test domain 1
