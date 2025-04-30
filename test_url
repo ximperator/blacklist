@@ -1,9 +1,2 @@
-# Checkpoint Malicious Domains Feed  
-# Last Updated: 2023-01-01  
-# Format: Domain | Threat Type | Confidence  
-
-malicious-domain.com | Malware | High  
-phishing-bank.com | Phishing | Medium  
-c2-server.botnet | C2 | Critical  
-scam-offer.org | Scam | Low  
-kvberlin.de | C2 | Critical 
+#UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
+dca297e278c8c750b0c6e1afa74cfdf7,amir.com,Domain,medium,medium,AB,Previous C2
