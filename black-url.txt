@@ -1,8 +1,5 @@
-Type,Indicator,Confidence,Severity
-Domain,juniper.net,high,Medium
-Domain,internettl.org,Medium,Medium
-Domain,avsvmcloud.com,Medium,Medium
-Domain,ovh.com,Medium,high
-Domain,ovh.de,Medium,Medium
-Domain,idp.kvberlin.de,Medium,high
-
+Type,Value,Comment
+domain,malicious-domain1.com,Bekannte Phishing-Seite
+domain,suspicious-site.net,Wird auf verdächtige Aktivitäten überwacht
+domain,command-and-control.org,Verbindung zu einer Botnet-Infrastruktur
+domain,idp.kvberlin.de,kvberlin
