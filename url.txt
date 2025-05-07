@@ -1,1 +1,7 @@
 check-host.net
+check-host.net/
+.check-host.net
+*.check-host.net
+www.check-host.net
+https://check-host.net
+https://www.check-host.net
