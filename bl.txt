@@ -1,2 +1,2 @@
-amir.com
-amirmontazeri.com
+*.amir.com
+*.amirmontazeri.com
